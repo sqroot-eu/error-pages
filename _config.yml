@@ -1,0 +1,12 @@
+title: HTTP Error
+baseurl: ""
+email: ando@sqroot.eu
+url: "https://error.sqroot.eu"
+markdown: kramdown
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
