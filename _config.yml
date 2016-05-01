@@ -3,6 +3,7 @@ baseurl: ""
 email: ando@sqroot.eu
 url: "https://error.sqroot.eu"
 markdown: kramdown
+exclude: [README.md, LICENSE.md]
 defaults:
   -
     scope:
